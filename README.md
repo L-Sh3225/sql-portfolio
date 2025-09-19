@@ -1,6 +1,6 @@
-# 🛒 E-Commerce SQL Database Project
+#  E-Commerce SQL Database Project
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates the design and use of a simple **E-Commerce relational database**.  
 It is part of my SQL portfolio to showcase skills in schema design, querying, data aggregation, and basic optimization.
 
@@ -13,7 +13,7 @@ It is part of my SQL portfolio to showcase skills in schema design, querying, da
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 The database consists of four main tables:
 
 - **Customers**: Stores customer information  
@@ -21,12 +21,12 @@ The database consists of four main tables:
 - **Orders**: Tracks customer orders  
 - **Order_Items**: Line items within each order  
 
-### 📊 Entity Relationship Diagram (ERD)
+### Entity Relationship Diagram (ERD)
 ![Schema Diagram](ecommerce_db_erd.png)
 
 ---
 
-## 📂 Project Files
+## Project Files
 - **schema.sql** → SQL commands to create the database schema (tables, keys, relationships)  
 - **sample_data.sql** → Example INSERT statements to populate the tables with sample data  
 - **queries.sql** → Example queries demonstrating analysis, joins, and optimization  
@@ -34,7 +34,7 @@ The database consists of four main tables:
 
 ---
 
-## 📝 Example Queries
+## Example Queries
 - Customers who signed up after Jan 2024  
 - Top 5 products by revenue  
 - Orders with customer names (JOIN example)  
@@ -43,7 +43,7 @@ The database consists of four main tables:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/sql-portfolio.git
@@ -71,7 +71,7 @@ The database consists of four main tables:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Add `Reviews` table for customer product reviews  
 - Create stored procedures for automatic calculations  
 - Test query performance with large datasets  
@@ -80,4 +80,4 @@ The database consists of four main tables:
 ---
 
 ## ✨ Author
-Project created by **[Your Name]** as part of a personal SQL portfolio.  
+Project created by **L-Sh3225** as part of a personal SQL portfolio.  
